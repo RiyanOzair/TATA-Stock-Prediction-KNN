@@ -1,0 +1,40 @@
+# Virtual environments
+tata_stock_env/
+venv/
+env/
+.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Data files (uncomment if you have large datasets)
+# *.csv
+# *.xlsx
+# *.json
+# data/
+
+# Model files (uncomment if you have large model files)
+# *.pkl
+# *.joblib
+# models/
